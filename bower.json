@@ -1,0 +1,13 @@
+{
+  "name": "Flat-UI",
+  "version": "0.0.0",
+  "main": [
+    "bootstrap/css/bootstrap.css",
+    "css/flat-ui.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
